@@ -1,0 +1,4 @@
+Este ejercicio está realizado sobre una base de datos nueva.
+
+El script para crear la base de datos y sus tablas y el script de
+insercion de filas están en la carpeta 'script'.
